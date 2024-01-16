@@ -1,5 +1,6 @@
 public class CreditCard {
 	private String idnum;
+	
 	private Money Balance;
 	
 	public CreditCard( String i) {
