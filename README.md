@@ -1,1 +1,3 @@
-A Java program that simulates a credit card management system!
+***NOTE: Please go to the updated version of this project. 
+https://github.com/manrajsingh248/CreditCardProject
+
